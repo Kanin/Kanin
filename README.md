@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+ <summary>Waka Stats</summary>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -99,3 +102,4 @@ Java                     1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
