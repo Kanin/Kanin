@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-778947%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-778951%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 271 Contributions in the Year 2020
+> 🏆 272 Contributions in the Year 2020
  > 
 > 📦 2.8 kB Used in Github's Storage 
  > 
