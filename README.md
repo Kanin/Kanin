@@ -6,7 +6,6 @@
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/overview.svg"/>
-  <br>
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/languages.svg"/>
 </details>
 
