@@ -40,14 +40,13 @@ jobs:
       # Install dependencies with `pip`
       - name: Install requirements
         run: |
-          ls
           python3 -m pip install --upgrade pip setuptools wheel
-          python3 -m pip install requests aiohttp
+          python3 -m pip install -r scripts/GitHubStats/requirements.txt
       # Generate all statistics images
       - name: Generate images
         run: |
           python3 --version
-          python3 /scripts/GitHubStats/generate_images.py
+          python3 scripts/GitHubStats/generate_images.py
         env:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
 
