@@ -8,6 +8,7 @@
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/overview.svg"/>
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/languages.svg"/>
 </details>
+</div>
 
 <details>
  <summary>Waka Stats</summary>
@@ -99,4 +100,3 @@ Java                     1 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
-</div>
