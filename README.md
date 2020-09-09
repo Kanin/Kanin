@@ -8,10 +8,10 @@
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/overview.svg"/>
   <img src="https://github.com/Kanin/Kanin/blob/master/scripts/GitHubStats/generated/languages.svg"/>
 </details>
-</div>
 
 <details>
  <summary>Waka Stats</summary>
+</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
