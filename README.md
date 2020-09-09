@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 17 Public Repositories
  > 
 > 🔑 8 Private Repositories 
 
