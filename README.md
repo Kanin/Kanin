@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-785256%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-785223%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -27,7 +27,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories
+> 📜 14 Public Repositories
  > 
 > 🔑 8 Private Repositories 
 
