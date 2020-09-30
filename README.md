@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-782960%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-778452%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 265 Contributions in the Year 2020
  > 
-> 📦 3.9 kB Used in Github's Storage 
+> 📦 4.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
