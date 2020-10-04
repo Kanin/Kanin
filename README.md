@@ -21,7 +21,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 274 Contributions in the Year 2020
+> 🏆 275 Contributions in the Year 2020
  > 
 > 📦 4.4 kB Used in Github's Storage 
  > 
