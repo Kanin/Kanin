@@ -51,6 +51,7 @@ jobs:
       # Commits all changed files to the repository
       - name: Commit to the repo
         run: |
+          git pull
           git config --global user.name "GitHub Stats Bot"
           git add .
           # "echo" returns true so the build succeeds, even if no changed files
