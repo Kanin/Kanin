@@ -42,6 +42,7 @@ class Queries(object):
                                             json={"query": generated_query})
             return await r.json()
         except:
+            print("aiohttp failed for GraphQL query")
             # Fall back on non-async requests
             async with self.semaphore:
                 r = requests.post("https://api.github.com/graphql",
@@ -57,7 +58,7 @@ class Queries(object):
         :return: deserialized REST JSON output
         """
 
-        while True:
+        for _ in range(60):
             headers = {
                 "Authorization": f"token {self.access_token}",
             }
@@ -73,13 +74,14 @@ class Queries(object):
                 if r.status == 202:
                     # print(f"{path} returned 202. Retrying...")
                     print(f"A path returned 202. Retrying...")
-                    await asyncio.sleep(1)
+                    await asyncio.sleep(2)
                     continue
 
                 result = await r.json()
                 if result is not None:
                     return result
             except:
+                print("aiohttp failed for rest query")
                 # Fall back on non-async requests
                 async with self.semaphore:
                     r = requests.get(f"https://api.github.com/{path}",
@@ -87,10 +89,13 @@ class Queries(object):
                                      params=tuple(params.items()))
                     if r.status_code == 202:
                         print(f"A path returned 202. Retrying...")
-                        await asyncio.sleep(1)
+                        await asyncio.sleep(2)
                         continue
-
-                    return r.json()
+                    elif r.status_code == 200:
+                        return r.json()
+        # print(f"There were too many 202s. Data for {path} will be incomplete.")
+        print("There were too many 202s. Data for this repository will be incomplete.")
+        return dict()
 
     @staticmethod
     def repos_overview(contrib_cursor: Optional[str] = None,
@@ -100,7 +105,8 @@ class Queries(object):
         """
         return f"""{{
   viewer {{
-    name
+    login,
+    name,
     repositories(
         first: 100,
         orderBy: {{
@@ -280,7 +286,12 @@ Languages:
             self._name = (raw_results
                           .get("data", {})
                           .get("viewer", {})
-                          .get("name", "No Name"))
+                          .get("name", None))
+            if self._name is None:
+                self._name = (raw_results
+                              .get("data", {})
+                              .get("viewer", {})
+                              .get("login", "No Name"))
 
             contrib_repos = (raw_results
                              .get("data", {})
@@ -295,14 +306,12 @@ Languages:
 
             for repo in repos:
                 name = repo.get("nameWithOwner")
-                if name in self._repos:
+                if name in self._repos or name in self._exclude_repos:
                     continue
                 self._repos.add(name)
                 self._stargazers += repo.get("stargazers").get("totalCount", 0)
                 self._forks += repo.get("forkCount", 0)
 
-                if name in self._exclude_repos:
-                    continue
                 for lang in repo.get("languages", {}).get("edges", []):
                     name = lang.get("node", {}).get("name", "Other")
                     languages = await self.languages
@@ -434,6 +443,10 @@ Languages:
         for repo in await self.repos:
             r = await self.queries.query_rest(f"/repos/{repo}/stats/contributors")
             for author_obj in r:
+                # Handle malformed response from the API by skipping this repo
+                if (not isinstance(author_obj, dict)
+                        or not isinstance(author_obj.get("author", {}), dict)):
+                    continue
                 author = author_obj.get("author", {}).get("login", "")
                 if author != self.username:
                     continue
