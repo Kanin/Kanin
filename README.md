@@ -92,7 +92,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Kanin/Kanin/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
