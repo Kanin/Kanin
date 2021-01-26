@@ -10,7 +10,7 @@
           width: calc(100% - 10px);
           height: calc(100% - 10px);
           fill: #161b22;
-          stroke: rgb(225, 228, 232);
+          stroke: rgb(18, 22, 28);
           stroke-width: 1px;
           rx: 6px;
           ry: 6px;
