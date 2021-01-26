@@ -9,7 +9,7 @@
         #background {
           width: calc(100% - 10px);
           height: calc(100% - 10px);
-          fill: #1a1a1a;
+          fill: #161b22;
           stroke: rgb(225, 228, 232);
           stroke-width: 1px;
           rx: 6px;
@@ -27,8 +27,8 @@
           line-height: 24px;
           font-size: 16px;
           font-weight: 600;
-          color: #8b0000;
-          fill: #8b0000;
+          color: #588AFF;
+          fill: #588AFF;
         }
 
         ul {
@@ -73,25 +73,25 @@
           display: flex;
           height: 8px;
           overflow: hidden;
-          background-color: #212121;
+          background-color: #12161c;
           border-radius: 6px;
           outline: 1px solid transparent;
           margin-bottom: 1em;
         }
 
         .progress-item {
-          outline: 2px solid #222222;
+          outline: 2px solid #12161c;
           border-collapse: collapse;
         }
 
         .lang {
           font-weight: 600;
           margin-right: 4px;
-          color: #adadad;
+          color: #8b949e;
         }
 
         .percent {
-          color: #720000;
+          color: #58a6ff;
         }
     </style>
     <g transform="translate(5, 5)">

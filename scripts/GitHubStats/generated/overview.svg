@@ -9,8 +9,8 @@
         #background {
           width: calc(100% - 10px);
           height: calc(100% - 10px);
-          fill: #1a1a1a;
-          stroke: rgb(225, 228, 232);
+          fill: #161b22;
+          stroke: rgb(18, 22, 28);
           stroke-width: 1px;
           rx: 6px;
           ry: 6px;
@@ -33,7 +33,7 @@
           text-align: left;
           font-size: 14px;
           font-weight: 600;
-          color: #8b0000;
+          color: #588AFF;
         }
 
         td {
@@ -42,11 +42,11 @@
           padding: 0.25em;
           font-size: 12px;
           line-height: 18px;
-          color: #adadad;
+          color: #8b949e;
         }
 
         .value {
-          color: #720000;
+          color: #58a6ff;
         }
 
         tr {
@@ -58,7 +58,7 @@
         }
 
         .octicon {
-          fill: #720000;
+          fill: #58a6ff;
           margin-right: 1ch;
           vertical-align: top;
         }
@@ -116,7 +116,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="value">2,799</td>
+                                <td class="value">2,802</td>
                             </tr>
 
                             <tr style="animation-delay: 450ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">144,792</td>
+                                <td class="value">144,818</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">3,913</td>
+                                <td class="value">3,910</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
