@@ -92,7 +92,7 @@
                                     </svg>
                                     Stars
                                 </td>
-                                <td class="value">4,067</td>
+                                <td class="value">4,077</td>
                             </tr>
 
                             <tr style="animation-delay: 150ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">4,375</td>
+                                <td class="value">4,356</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">34</td>
+                                <td  class="value">35</td>
                             </tr>
 
                         </tbody>
