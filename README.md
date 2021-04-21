@@ -15,9 +15,9 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24423%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24425%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -43,9 +43,9 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Monday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   21.98% 
 Tuesday      49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Wednesday    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
+Wednesday    79 commits     █████░░░░░░░░░░░░░░░░░░░░   19.51% 
 Thursday     43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
 Friday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
 Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
