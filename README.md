@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29938%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30005%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -43,8 +43,8 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-Tuesday      50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Monday       90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.5% 
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
 Wednesday    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
 Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
 Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
