@@ -15,13 +15,13 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29726%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 74 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 34.8 kB Used in Github's Storage 
  > 
