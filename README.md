@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30577%20lines%20of%20code-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 85 Contributions in the Year 2021
  > 
-> 📦 35.3 kB Used in Github's Storage 
+> 📦 35.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
