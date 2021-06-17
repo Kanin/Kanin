@@ -15,9 +15,9 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30577%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30591%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -34,8 +34,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    96 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
-🌆 Daytime    212 commits    █████████░░░░░░░░░░░░░░░░   38.76% 
+🌞 Morning    97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+🌆 Daytime    211 commits    █████████░░░░░░░░░░░░░░░░   38.57% 
 🌃 Evening    115 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02% 
 🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░░░   22.67%
 
