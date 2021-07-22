@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29403%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29402%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -35,9 +35,9 @@
 
 ```text
 🌞 Morning    97 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-🌆 Daytime    227 commits    █████████░░░░░░░░░░░░░░░░   36.79% 
+🌆 Daytime    228 commits    █████████░░░░░░░░░░░░░░░░   36.95% 
 🌃 Evening    136 commits    █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-🌙 Night      157 commits    ██████░░░░░░░░░░░░░░░░░░░   25.45%
+🌙 Night      156 commits    ██████░░░░░░░░░░░░░░░░░░░   25.28%
 
 ```
 📅 **I'm Most Productive on Monday** 
