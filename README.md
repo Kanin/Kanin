@@ -21,9 +21,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 359 Contributions in the Year 2021
+> 🏆 365 Contributions in the Year 2021
  > 
-> 📦 52.1 kB Used in Github's Storage 
+> 📦 52.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,6 +97,6 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 </details>
