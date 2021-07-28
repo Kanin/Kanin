@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29432%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29440%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 365 Contributions in the Year 2021
+> 🏆 368 Contributions in the Year 2021
  > 
 > 📦 52.2 kB Used in Github's Storage 
  > 
@@ -44,9 +44,9 @@
 
 ```text
 Monday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
-Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
 Wednesday    96 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-Thursday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.35% 
 Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
 Saturday     60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
 Sunday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.21%
