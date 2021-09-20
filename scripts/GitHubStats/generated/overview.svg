@@ -78,7 +78,7 @@
                     <table>
                         <thead>
                             <tr style="transform: translateX(0);">
-                                <th colspan="2">Kanin's GitHub Statistics</th>
+                                <th colspan="2">No Name's GitHub Statistics</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">2,977</td>
+                                <td class="value">2,796</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
