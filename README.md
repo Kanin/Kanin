@@ -23,7 +23,7 @@
 
 > 🏆 418 Contributions in the Year 2021
  > 
-> 📦 54.1 kB Used in Github's Storage 
+> 📦 54.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,6 +90,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
 </details>
