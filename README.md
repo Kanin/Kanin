@@ -19,11 +19,11 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29684%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 427 Contributions in the Year 2021
  > 
-> 📦 54.2 kB Used in Github's Storage 
+> 📦 54.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
