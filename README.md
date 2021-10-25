@@ -60,16 +60,17 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 7 mins         █████████████████████████   99.76% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 7 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BotToWendys              1 hr 7 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 7 mins         █████████████████████████   100.0%
 
 ```
 
