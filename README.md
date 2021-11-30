@@ -60,16 +60,16 @@ Sunday       103 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 7 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TomsBotPyCord            2 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
