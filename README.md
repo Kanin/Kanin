@@ -15,6 +15,8 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
@@ -60,16 +62,19 @@ Sunday       104 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   47 mins             ████████████████████████░   99.26% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  47 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Adore                    46 mins             ████████████████████████░   98.04% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
+ModLogs                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.0%
 
 ```
 
