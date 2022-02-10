@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">196,021</td>
+                                <td class="value">192,471</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">3,274</td>
+                                <td class="value">3,499</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">40</td>
+                                <td  class="value">39</td>
                             </tr>
 
                         </tbody>
