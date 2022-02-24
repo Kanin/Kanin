@@ -15,8 +15,6 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
@@ -25,7 +23,7 @@
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 85.0 kB Used in GitHub's Storage 
+> 📦 84.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,6 +99,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 04:42:42 UTC
+ Last Updated on 24/02/2022 05:07:01 UTC
 <!--END_SECTION:waka-->
 </details>
