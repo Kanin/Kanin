@@ -15,6 +15,8 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C859%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
@@ -60,16 +62,21 @@ Sunday       104 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 39 mins        ███████████████████████░░   92.29% 
+virtualenv               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 48 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BotBase.py               1 hr 48 mins        █████████████████████████   99.95% 
+discord-py               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 48 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,6 +97,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 04:06:19 UTC
+ Last Updated on 08/04/2022 04:44:01 UTC
 <!--END_SECTION:waka-->
 </details>
