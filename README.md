@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -62,16 +62,18 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              █████████████████████████   100.0% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Role-Shop                4 mins              █████████████████████████   100.0% 
+BotBase.py               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +94,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/05/2022 04:14:29 UTC
+ Last Updated on 25/05/2022 04:45:12 UTC
 <!--END_SECTION:waka-->
 </details>
