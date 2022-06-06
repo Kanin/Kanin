@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,24 @@ Sunday       70 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   43 mins             █████████████░░░░░░░░░░░░   51.54% 
+virtualenv               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+JavaScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+.env file                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 4 mins         ███████████████████░░░░░░   76.01% 
+IntelliJ                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BotBase.py               1 hr 4 mins         ███████████████████░░░░░░   75.95% 
+modmailbot               20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 4 mins         ███████████████████░░░░░░   76.01% 
+Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99%
 
 ```
 
@@ -92,6 +100,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 04:14:13 UTC
+ Last Updated on 06/06/2022 04:47:16 UTC
 <!--END_SECTION:waka-->
 </details>
