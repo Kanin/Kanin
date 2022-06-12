@@ -15,25 +15,24 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C868%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C868%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 245 Contributions in the Year 2022
+```text
+🏆 245 contributions in 2022
+
+📦 88.6 kB used in GitHub's storage 
+
+📜 15 Public Repositories 
+
+🔑 9 Private Repositories  
  > 
-> 📦 88.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
@@ -42,7 +41,7 @@
 🌙 Night      120 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm most productive on Saturday** 
 
 ```text
 Monday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
@@ -56,7 +55,7 @@ Sunday       70 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: America/New_York
@@ -83,7 +82,7 @@ Windows                  20 mins             █░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   23 repos            ███████████████████░░░░░░   76.67% 
@@ -100,6 +99,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:37:26 UTC
+ Last Updated on 12/06/2022 08:06:05 UTC
 <!--END_SECTION:waka-->
 </details>
