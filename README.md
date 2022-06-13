@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -96,6 +96,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/06/2022 05:12:35 UTC
+ Last Updated on 13/06/2022 05:41:04 UTC
 <!--END_SECTION:waka-->
 </details>
