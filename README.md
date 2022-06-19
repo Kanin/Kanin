@@ -23,8 +23,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 253 Contributions in the Year 2022
- > 
 > 📦 88.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -98,6 +96,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2022 11:40:07 UTC
+ Last Updated on 19/06/2022 12:06:13 UTC
 <!--END_SECTION:waka-->
 </details>
