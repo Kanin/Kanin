@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -33,48 +33,6 @@
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-🌆 Daytime    72 commits     █████░░░░░░░░░░░░░░░░░░░░   22.15% 
-🌃 Evening    136 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
-🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.77%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Thursday     53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -92,6 +50,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 07:07:39 UTC
+ Last Updated on 04/09/2022 07:41:44 UTC
 <!--END_SECTION:waka-->
 </details>
