@@ -33,48 +33,6 @@
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-🌆 Daytime    72 commits     █████░░░░░░░░░░░░░░░░░░░░   22.15% 
-🌃 Evening    136 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
-🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.77%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Thursday     53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Saturday     63 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -92,6 +50,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 03:53:51 UTC
+ Last Updated on 14/09/2022 04:40:51 UTC
 <!--END_SECTION:waka-->
 </details>
