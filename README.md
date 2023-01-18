@@ -62,17 +62,16 @@ Sunday       122 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ████████████████████████░   99.21% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 34 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BB-CommunityBot          2 hrs 34 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,6 +92,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2023 05:07:34 UTC
+ Last Updated on 18/01/2023 05:35:48 UTC
 <!--END_SECTION:waka-->
 </details>
