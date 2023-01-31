@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 13 Contributions in the Year 2023
  > 
-> 📦 97.0 kB Used in GitHub's Storage 
+> 📦 97.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,16 +62,20 @@ Sunday       122 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 56 mins        ████████████████████████░   96.85% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BB-CommunityBot          2 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -92,6 +96,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 05:07:52 UTC
+ Last Updated on 31/01/2023 05:36:49 UTC
 <!--END_SECTION:waka-->
 </details>
