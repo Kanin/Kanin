@@ -19,7 +19,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,6 +92,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kanin/Kanin/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 20:06:22 UTC
+ Last Updated on 16/02/2023 22:33:13 UTC
 <!--END_SECTION:waka-->
 </details>
