@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 98.3 kB Used in GitHub's Storage 
+> 📦 98.2 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2023
  > 
@@ -91,6 +91,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2023 22:33:18 UTC
+ Last Updated on 01/03/2023 23:03:26 UTC
 <!--END_SECTION:waka-->
 </details>
