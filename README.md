@@ -60,17 +60,16 @@ Sunday                   1340 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        █████████████████████████   99.29 % 
-Log File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VoiceSphere              1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -90,6 +89,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2023 01:24:13 UTC
+ Last Updated on 21/10/2023 05:04:29 UTC
 <!--END_SECTION:waka-->
 </details>
