@@ -92,7 +92,7 @@
                                     </svg>
                                     Stars
                                 </td>
-                                <td class="value">135</td>
+                                <td class="value">134</td>
                             </tr>
 
                             <tr style="animation-delay: 150ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">518,922</td>
+                                <td class="value">514,383</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">48</td>
+                                <td  class="value">47</td>
                             </tr>
 
                         </tbody>
