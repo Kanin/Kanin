@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">514,504</td>
+                                <td class="value">210,779</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">47</td>
+                                <td  class="value">45</td>
                             </tr>
 
                         </tbody>
