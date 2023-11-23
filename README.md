@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C180%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 104.1 kB Used in GitHub's Storage 
+> 📦 104.2 kB Used in GitHub's Storage 
  > 
 > 🏆 683 Contributions in the Year 2023
  > 
@@ -98,6 +98,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 07:04:05 UTC
+ Last Updated on 23/11/2023 12:04:45 UTC
 <!--END_SECTION:waka-->
 </details>
