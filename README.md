@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C224%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,6 +90,6 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2023 04:04:35 UTC
+ Last Updated on 28/12/2023 05:04:18 UTC
 <!--END_SECTION:waka-->
 </details>
