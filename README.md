@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 107.1 kB Used in GitHub's Storage 
+> 📦 107.0 kB Used in GitHub's Storage 
  > 
 > 🏆 79 Contributions in the Year 2024
  > 
@@ -60,16 +60,16 @@ Sunday                   1367 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-P4P                      2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +89,6 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2024 04:03:47 UTC
+ Last Updated on 06/03/2024 05:33:34 UTC
 <!--END_SECTION:waka-->
 </details>
