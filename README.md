@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C343%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 108.3 kB Used in GitHub's Storage 
+> 📦 108.4 kB Used in GitHub's Storage 
  > 
 > 🏆 89 Contributions in the Year 2024
  > 
@@ -60,16 +60,23 @@ Sunday                   1365 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 15 mins       ████████████████░░░░░░░░░   64.89 % 
+CSS                      1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+virtualenv               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ModMail                  6 hrs 4 mins        ███████████████████████░░   92.49 % 
+MediaUploader            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+APIServer                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +96,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 04:03:47 UTC
+ Last Updated on 16/05/2024 06:33:39 UTC
 <!--END_SECTION:waka-->
 </details>
