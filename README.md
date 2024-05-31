@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -60,16 +60,22 @@ Sunday                   1365 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   52 mins             ██████████████████░░░░░░░   71.66 % 
+AutoHotkey               19 mins             ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   99.97 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ExtractStrainName        51 mins             ██████████████████░░░░░░░   70.42 % 
+Unknown Project          21 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Naila.py                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +95,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 04:04:04 UTC
+ Last Updated on 31/05/2024 06:04:27 UTC
 <!--END_SECTION:waka-->
 </details>
