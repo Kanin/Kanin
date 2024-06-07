@@ -60,22 +60,16 @@ Sunday                   1365 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   52 mins             ██████████████████░░░░░░░   71.66 % 
-AutoHotkey               19 mins             ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   99.97 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ExtractStrainName        51 mins             ██████████████████░░░░░░░   70.42 % 
-Unknown Project          21 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Naila.py                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,6 +89,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2024 04:14:32 UTC
+ Last Updated on 07/06/2024 05:36:05 UTC
 <!--END_SECTION:waka-->
 </details>
