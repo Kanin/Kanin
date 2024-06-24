@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C383%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C384%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 110.7 kB Used in GitHub's Storage 
+> 📦 110.8 kB Used in GitHub's Storage 
  > 
 > 🏆 117 Contributions in the Year 2024
  > 
@@ -94,6 +94,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 23:33:27 UTC
+ Last Updated on 24/06/2024 01:55:27 UTC
 <!--END_SECTION:waka-->
 </details>
