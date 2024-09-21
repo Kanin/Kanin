@@ -25,8 +25,6 @@
 
 > 📦 177.3 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -89,6 +87,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2024 19:03:59 UTC
+ Last Updated on 21/09/2024 00:09:34 UTC
 <!--END_SECTION:waka-->
 </details>
