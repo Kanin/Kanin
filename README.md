@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C468%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C468%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,23 @@ Sunday                   1472 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 10 mins        ████████████████░░░░░░░░░   65.13 % 
+virtualenv               25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ModMail                  1 hr 4 mins         ███████████████░░░░░░░░░░   59.22 % 
+Naila.py                 29 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+APIServer                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+NailaSite                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +96,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2024 00:09:44 UTC
+ Last Updated on 19/10/2024 07:33:49 UTC
 <!--END_SECTION:waka-->
 </details>
