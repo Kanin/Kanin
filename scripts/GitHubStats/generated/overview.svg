@@ -116,7 +116,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="value">2,625</td>
+                                <td class="value">2,627</td>
                             </tr>
 
                             <tr style="animation-delay: 450ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">257,459</td>
+                                <td class="value">263,837</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">46</td>
+                                <td  class="value">47</td>
                             </tr>
 
                         </tbody>
