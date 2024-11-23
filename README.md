@@ -60,22 +60,16 @@ Sunday                   1472 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 mins              ██████████████░░░░░░░░░░░   56.96 % 
-TypeScript               3 mins              ███████████░░░░░░░░░░░░░░   42.79 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  4 mins              ██████████████░░░░░░░░░░░   57.14 % 
-WebStorm                 3 mins              ███████████░░░░░░░░░░░░░░   42.86 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-APIServer                4 mins              ██████████████░░░░░░░░░░░   56.63 % 
-mysite                   3 mins              ███████████░░░░░░░░░░░░░░   42.86 % 
-NailaSite                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,6 +89,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 04:37:24 UTC
+ Last Updated on 23/11/2024 05:36:51 UTC
 <!--END_SECTION:waka-->
 </details>
