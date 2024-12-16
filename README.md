@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C497%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C498%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 179.0 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2024
+> 🏆 187 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,18 +60,19 @@ Sunday                   1473 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       █████████████████████████   99.18 % 
-.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Python                   3 hrs 28 mins       █████████████████████████   98.28 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 18 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NailaDjango              2 hrs 18 mins       █████████████████████████   100.00 % 
+NailaDjango              3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,6 +92,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2024 05:05:19 UTC
+ Last Updated on 16/12/2024 07:05:25 UTC
 <!--END_SECTION:waka-->
 </details>
