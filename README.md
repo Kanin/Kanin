@@ -33,6 +33,45 @@
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2910 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+🌆 Daytime                3148 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌃 Evening                3054 commits        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌙 Night                  1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2046 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Tuesday                  1508 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                1055 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Thursday                 1644 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Saturday                 1022 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   1537 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -50,6 +89,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 05:35:49 UTC
+ Last Updated on 03/02/2025 06:05:32 UTC
 <!--END_SECTION:waka-->
 </details>
