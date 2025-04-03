@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C631%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C631%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -60,16 +60,18 @@ Sunday                   1571 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 hrs 28 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 11 mins       █████████████████████░░░░   85.19 % 
+JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Site                     5 hrs 28 mins       █████████████████████████   100.00 % 
+Site                     3 hrs 11 mins       █████████████████████░░░░   85.19 % 
+4-2                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +91,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2025 04:05:19 UTC
+ Last Updated on 03/04/2025 04:39:44 UTC
 <!--END_SECTION:waka-->
 </details>
