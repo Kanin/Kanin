@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C649%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C650%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,8 +24,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 181.9 kB Used in GitHub's Storage 
- > 
-> 🏆 125 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,19 +58,19 @@ Sunday                   1574 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   9 hrs 30 mins       ██████████████████████░░░   87.57 % 
-JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Python                   10 hrs 32 mins      ██████████████████████░░░   88.65 % 
+JavaScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Site                     9 hrs 30 mins       ██████████████████████░░░   87.60 % 
-4-2                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Site                     10 hrs 32 mins      ██████████████████████░░░   88.67 % 
+4-2                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 
 💻 Operating System: 
-Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,6 +90,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 04:05:58 UTC
+ Last Updated on 15/04/2025 04:38:54 UTC
 <!--END_SECTION:waka-->
 </details>
