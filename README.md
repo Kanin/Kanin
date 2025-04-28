@@ -60,17 +60,16 @@ Sunday                   1578 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   21 mins             ████████████████░░░░░░░░░   65.76 % 
-TypeScript               11 mins             █████████░░░░░░░░░░░░░░░░   34.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Site                     32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -90,6 +89,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 04:06:20 UTC
+ Last Updated on 28/04/2025 04:40:13 UTC
 <!--END_SECTION:waka-->
 </details>
