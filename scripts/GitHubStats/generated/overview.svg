@@ -92,7 +92,7 @@
                                     </svg>
                                     Stars
                                 </td>
-                                <td class="value">437</td>
+                                <td class="value">454</td>
                             </tr>
 
                             <tr style="animation-delay: 150ms">
@@ -104,7 +104,7 @@
                                     </svg>
                                     Forks
                                 </td>
-                                <td class="value">83</td>
+                                <td class="value">84</td>
                             </tr>
 
                             <tr style="animation-delay: 300ms">
@@ -116,7 +116,7 @@
                                     </svg>
                                     All-time contributions
                                 </td>
-                                <td class="value">2,721</td>
+                                <td class="value">2,782</td>
                             </tr>
 
                             <tr style="animation-delay: 450ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">285,647</td>
+                                <td class="value">309,980</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">180</td>
+                                <td class="value">50</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">52</td>
+                                <td  class="value">55</td>
                             </tr>
 
                         </tbody>
