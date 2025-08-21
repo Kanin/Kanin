@@ -92,7 +92,7 @@
                                     </svg>
                                     Stars
                                 </td>
-                                <td class="value">461</td>
+                                <td class="value">73</td>
                             </tr>
 
                             <tr style="animation-delay: 150ms">
@@ -104,7 +104,7 @@
                                     </svg>
                                     Forks
                                 </td>
-                                <td class="value">86</td>
+                                <td class="value">17</td>
                             </tr>
 
                             <tr style="animation-delay: 300ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">44</td>
+                                <td class="value">43</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">54</td>
+                                <td  class="value">53</td>
                             </tr>
 
                         </tbody>
