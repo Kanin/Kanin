@@ -78,7 +78,7 @@
                     <table>
                         <thead>
                             <tr style="transform: translateX(0);">
-                                <th colspan="2">Joshua Waters's GitHub Statistics</th>
+                                <th colspan="2">No Name's GitHub Statistics</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -92,7 +92,7 @@
                                     </svg>
                                     Stars
                                 </td>
-                                <td class="value">73</td>
+                                <td class="value">0</td>
                             </tr>
 
                             <tr style="animation-delay: 150ms">
@@ -104,7 +104,7 @@
                                     </svg>
                                     Forks
                                 </td>
-                                <td class="value">17</td>
+                                <td class="value">0</td>
                             </tr>
 
                             <tr style="animation-delay: 300ms">
@@ -128,7 +128,7 @@
                                     </svg>
                                     Lines of code changed
                                 </td>
-                                <td class="value">249,431</td>
+                                <td class="value">0</td>
                             </tr>
 
                             <tr style="animation-delay: 600ms">
@@ -140,7 +140,7 @@
                                     </svg>
                                     Page views (past two weeks)
                                 </td>
-                                <td class="value">84</td>
+                                <td class="value">0</td>
                             </tr>
 
                             <tr style="animation-delay: 750ms">
@@ -152,7 +152,7 @@
                                     </svg>
                                     Repositories with contributions
                                 </td>
-                                <td  class="value">56</td>
+                                <td  class="value">0</td>
                             </tr>
 
                         </tbody>
