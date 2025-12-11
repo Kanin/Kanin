@@ -15,15 +15,17 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C733%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-880.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-880.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 185.8 kB Used in GitHub's Storage 
+> 📦 186.1 kB Used in GitHub's Storage 
  > 
-> 🏆 526 Contributions in the Year 2025
+> 🏆 529 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -31,6 +33,51 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2899 commits        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+🌆 Daytime                2907 commits        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+🌃 Evening                2971 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  1356 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2041 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Tuesday                  1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Wednesday                1018 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Thursday                 1583 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Friday                   1648 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 912 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Python                   22 hrs 24 mins      ████████████████████░░░░░   79.86 % 
+JavaScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Bash                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+HTML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 4 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Marshall                 22 hrs 28 mins      ████████████████████░░░░░   80.09 % 
+website-new              4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Bot                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+
+💻 Operating System: 
+Windows                  28 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,6 +95,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 20:10:32 UTC
+ Last Updated on 11/12/2025 00:22:52 UTC
 <!--END_SECTION:waka-->
 </details>
