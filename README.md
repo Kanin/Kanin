@@ -15,17 +15,17 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C746%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 188.9 kB Used in GitHub's Storage 
  > 
-> 🏆 563 Contributions in the Year 2025
+> 🏆 566 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -36,19 +36,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2904 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌆 Daytime                2923 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌃 Evening                2983 commits        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌙 Night                  1356 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+🌞 Morning                2904 commits        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+🌆 Daytime                2925 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                2984 commits        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌙 Night                  1356 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2057 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Tuesday                  1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  1469 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Wednesday                1020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 Thursday                 1583 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Friday                   1656 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Friday                   1656 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Saturday                 917 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 Sunday                   1467 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
@@ -96,6 +96,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 20:09:22 UTC
+ Last Updated on 17/12/2025 00:22:34 UTC
 <!--END_SECTION:waka-->
 </details>
