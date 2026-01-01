@@ -23,9 +23,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 189.1 kB Used in GitHub's Storage 
+> 📦 189.0 kB Used in GitHub's Storage 
  > 
-> 🏆 595 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,6 +92,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 20:09:23 UTC
+ Last Updated on 01/01/2026 00:25:51 UTC
 <!--END_SECTION:waka-->
 </details>
