@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C779%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,11 +81,11 @@ Windows                  5 hrs 12 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ████████████████░░░░░░░░░   62.26 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   33 repos            ████████████████░░░░░░░░░   63.46 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -95,6 +95,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 04:22:12 UTC
+ Last Updated on 06/01/2026 08:10:54 UTC
 <!--END_SECTION:waka-->
 </details>
