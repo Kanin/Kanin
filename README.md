@@ -15,9 +15,9 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-946.30%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,20 +60,18 @@ Sunday                   1471 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ██████████████████████░░░   88.87 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               14 mins             ████████████████████████░   96.07 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Marshall                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   48.75 % 
-website-new              1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.64 % 
-Sylvie                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+website-new              14 mins             █████████████████████████   98.57 % 
+Marshall                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,6 +91,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2026 08:10:39 UTC
+ Last Updated on 22/01/2026 12:13:21 UTC
 <!--END_SECTION:waka-->
 </details>
