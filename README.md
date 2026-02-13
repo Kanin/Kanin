@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C812%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C813%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 193.0 kB Used in GitHub's Storage 
+> 📦 192.9 kB Used in GitHub's Storage 
  > 
 > 🏆 44 Contributions in the Year 2026
  > 
@@ -60,16 +60,16 @@ Sunday                   1475 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+website-new              16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,6 +89,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 08:17:52 UTC
+ Last Updated on 13/02/2026 12:15:25 UTC
 <!--END_SECTION:waka-->
 </details>
