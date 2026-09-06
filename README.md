@@ -15,17 +15,17 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C457%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.53%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 244.3 kB Used in GitHub's Storage 
+> 📦 244.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,552 Contributions in the Year 2026
+> 🏆 1,912 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4163 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌆 Daytime                4063 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌃 Evening                4560 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-🌙 Night                  3317 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+🌞 Morning                4592 commits        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+🌆 Daytime                4313 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+🌃 Evening                4992 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌙 Night                  3713 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2966 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Tuesday                  2491 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                1783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Thursday                 1959 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Friday                   2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Saturday                 1567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   2747 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Monday                   3330 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Tuesday                  2856 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                1879 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Thursday                 2030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Friday                   2654 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Saturday                 1824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Sunday                   3037 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 ```
 
 
@@ -60,11 +60,11 @@ Sunday                   2747 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   14 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Other                    9 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-TypeScript               7 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Rust                     6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Markdown                 4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+JavaScript               11 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Python                   9 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Other                    8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Rust                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,6 +84,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 00:15:37 UTC
+ Last Updated on 06/09/2026 00:32:19 UTC
 <!--END_SECTION:waka-->
 </details>
