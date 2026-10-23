@@ -15,17 +15,17 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C562%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C564%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 443.9 kB Used in GitHub's Storage 
+> 📦 546.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,252 Contributions in the Year 2026
+> 🏆 2,255 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,24 +33,24 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5861 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌆 Daytime                5549 commits        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-🌃 Evening                6213 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-🌙 Night                  5302 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌞 Morning                5583 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime                5065 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+🌃 Evening                5798 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+🌙 Night                  4824 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4017 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Tuesday                  3814 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Wednesday                2459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Thursday                 2716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Friday                   3425 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 2552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Sunday                   3942 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Monday                   3880 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Tuesday                  3584 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Wednesday                2353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Thursday                 2543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Friday                   3057 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 2289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Sunday                   3564 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 ```
 
 
@@ -60,11 +60,7 @@ Sunday                   3942 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-PowerShell               3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
-Python                   2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-INI                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -84,6 +80,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:35:44 UTC
+ Last Updated on 23/10/2026 00:31:00 UTC
 <!--END_SECTION:waka-->
 </details>
