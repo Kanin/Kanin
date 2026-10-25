@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C564%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C564%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -60,7 +60,10 @@ Sunday                   3564 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             ██████████████████░░░░░░░   72.27 % 
+Git Config               7 mins              ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,6 +83,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 00:31:00 UTC
+ Last Updated on 25/10/2026 00:30:59 UTC
 <!--END_SECTION:waka-->
 </details>
