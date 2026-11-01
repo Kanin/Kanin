@@ -15,7 +15,7 @@
  <summary>Waka Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C569%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C572%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -60,11 +60,11 @@ Sunday                   3765 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       ████████████████████████░   95.45 % 
-Image (svg)              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   7 hrs 20 mins       ██████████████████████░░░   88.37 % 
+Image (svg)              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,6 +84,6 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanin/Kanin/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 04:12:23 UTC
+ Last Updated on 01/11/2026 08:12:56 UTC
 <!--END_SECTION:waka-->
 </details>
